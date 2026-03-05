@@ -449,26 +449,6 @@
       "password": "Pass@149",
       "gender": "female",
       "role": "user"
-    },
-    {
-      "id": "43af",
-      "name": "AAAAA",
-      "email": "aa@aa.aa",
-      "phone": "1234567890",
-      "dob": "1988-11-11",
-      "password": "aaa@11",
-      "gender": "male",
-      "role": "user"
-    },
-    {
-      "id": "6ca7",
-      "name": "aaaa",
-      "email": "am@gm.co",
-      "phone": "1231231231",
-      "dob": "2000-12-12",
-      "password": "aaa@!1",
-      "gender": "male",
-      "role": "user"
     }
   ]
 }
